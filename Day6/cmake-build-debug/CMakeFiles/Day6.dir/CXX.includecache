@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Laurens/Documents/School/Jaar 2/Kwartiel 2/Datastructures/AoC2018/Day6/main.cpp
+fstream
+-
+iostream
+-
+vector
+-
+
