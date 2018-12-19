@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Laurens/Documents/School/Jaar 2/Kwartiel 2/Datastructures/AoC2018/Day1/main.cpp
+iostream
+-
+vector
+-
+numeric
+-
+fstream
+-
+cassert
+-
+sstream
+-
+unordered_map
+-
+
